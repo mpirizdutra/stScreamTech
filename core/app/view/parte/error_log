@@ -1,0 +1,24 @@
+[17-Nov-2019 04:42:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function EstadoPresupuesto() on null in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/parte/modal.php:832
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/parte/modal.php on line 832
+[22-Nov-2019 12:44:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function EstadoPresupuesto() on null in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/parte/modal.php:832
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/parte/modal.php on line 832
+[29-Dec-2019 06:43:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function EstadoPresupuesto() on null in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/parte/modal.php:832
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/parte/modal.php on line 832
+[11-Feb-2020 07:11:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function EstadoPresupuesto() on null in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/parte/modal.php:832
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/parte/modal.php on line 832
+[17-Mar-2020 06:26:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function EstadoPresupuesto() on null in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/parte/modal.php:832
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/parte/modal.php on line 832
+[22-Apr-2020 01:15:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function EstadoPresupuesto() on null in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/parte/modal.php:832
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/parte/modal.php on line 832

@@ -1,0 +1,12 @@
+[11-Mar-2020 02:00:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ValidacionSesion' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/layouts/layout.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/layouts/layout.php on line 2
+[17-Mar-2020 12:05:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ValidacionSesion' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/layouts/layout.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/layouts/layout.php on line 2
+[23-Mar-2020 02:22:50 UTC] PHP Fatal error:  Uncaught Error: Class 'ValidacionSesion' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/layouts/layout.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/layouts/layout.php on line 2

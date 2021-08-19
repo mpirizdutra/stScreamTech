@@ -1,0 +1,108 @@
+[11-Nov-2019 05:00:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/st_Imprimir-action.php:510
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/st_Imprimir-action.php on line 510
+[11-Nov-2019 09:50:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/st_Equipos-action.php:526
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/st_Equipos-action.php on line 526
+[11-Nov-2019 10:23:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/actualizarEstado-action.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/actualizarEstado-action.php on line 18
+[11-Nov-2019 14:09:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/st_Cliente-action.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/st_Cliente-action.php on line 65
+[11-Nov-2019 14:10:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/BuscarCliente-action.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/BuscarCliente-action.php on line 99
+[11-Nov-2019 14:31:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/BDbackUP-action.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/BDbackUP-action.php on line 12
+[11-Nov-2019 20:57:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/Usuarios-action.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/Usuarios-action.php on line 9
+[11-Nov-2019 21:22:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/IngresoForm-action.php:149
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/IngresoForm-action.php on line 149
+[11-Nov-2019 23:14:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/updatepost-action.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/updatepost-action.php on line 18
+[17-Nov-2019 01:59:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/st_Imprimir-action.php:510
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/st_Imprimir-action.php on line 510
+[17-Nov-2019 07:20:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/st_Cliente-action.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/st_Cliente-action.php on line 65
+[17-Nov-2019 08:41:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/updatepost-action.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/updatepost-action.php on line 18
+[17-Nov-2019 08:44:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/actualizarEstado-action.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/actualizarEstado-action.php on line 18
+[17-Nov-2019 10:50:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/st_Equipos-action.php:526
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/st_Equipos-action.php on line 526
+[17-Nov-2019 16:19:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/BDbackUP-action.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/BDbackUP-action.php on line 12
+[17-Nov-2019 18:45:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/IngresoForm-action.php:149
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/IngresoForm-action.php on line 149
+[17-Nov-2019 22:50:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/BuscarCliente-action.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/BuscarCliente-action.php on line 99
+[18-Nov-2019 00:28:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/Usuarios-action.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/Usuarios-action.php on line 9
+[22-Nov-2019 11:24:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/st_Imprimir-action.php:510
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/st_Imprimir-action.php on line 510
+[23-Nov-2019 04:59:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/actualizarEstado-action.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/actualizarEstado-action.php on line 18
+[23-Nov-2019 05:44:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/updatepost-action.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/updatepost-action.php on line 18
+[23-Nov-2019 22:25:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/IngresoForm-action.php:149
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/IngresoForm-action.php on line 149
+[23-Nov-2019 22:36:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/st_Equipos-action.php:526
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/st_Equipos-action.php on line 526
+[04-Dec-2019 01:59:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/BDbackUP-action.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/BDbackUP-action.php on line 12
+[05-Dec-2019 11:14:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/Usuarios-action.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/Usuarios-action.php on line 9
+[05-Dec-2019 22:42:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/st_Cliente-action.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/st_Cliente-action.php on line 65
+[06-Dec-2019 02:58:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/BuscarCliente-action.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/action/BuscarCliente-action.php on line 99

@@ -1,0 +1,172 @@
+[12-Nov-2019 02:16:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/index-view.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/index-view.php on line 3
+[12-Nov-2019 02:39:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_ConfigImpresion-view.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_ConfigImpresion-view.php on line 14
+[12-Nov-2019 03:05:57 UTC] PHP Fatal error:  Uncaught Error: Class 'clsCliente' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_clienteQR-view.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_clienteQR-view.php on line 15
+[12-Nov-2019 08:25:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_imprimirEquipo-view.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_imprimirEquipo-view.php on line 15
+[12-Nov-2019 15:02:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_EditarCliente-view.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_EditarCliente-view.php on line 11
+[12-Nov-2019 16:59:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_infEquipo-view.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_infEquipo-view.php on line 27
+[12-Nov-2019 17:31:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_EditarEquipo-view.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_EditarEquipo-view.php on line 27
+[12-Nov-2019 19:13:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_imprimir-view.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_imprimir-view.php on line 8
+[12-Nov-2019 20:27:53 UTC] PHP Fatal error:  Uncaught Error: Class 'clsFunciones' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_ingreso-view.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_ingreso-view.php on line 35
+[12-Nov-2019 21:47:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_Epresupuesto-view.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_Epresupuesto-view.php on line 19
+[12-Nov-2019 22:44:25 UTC] PHP Fatal error:  Uncaught Error: Class 'clsCliente' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_NuevoEquipo-view.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_NuevoEquipo-view.php on line 18
+[17-Nov-2019 17:39:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/index-view.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/index-view.php on line 3
+[17-Nov-2019 18:03:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_ConfigImpresion-view.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_ConfigImpresion-view.php on line 14
+[18-Nov-2019 01:20:26 UTC] PHP Fatal error:  Uncaught Error: Class 'clsCliente' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_clienteQR-view.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_clienteQR-view.php on line 15
+[18-Nov-2019 08:21:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_EditarCliente-view.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_EditarCliente-view.php on line 11
+[18-Nov-2019 12:16:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_imprimir-view.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_imprimir-view.php on line 8
+[18-Nov-2019 17:16:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_imprimirEquipo-view.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_imprimirEquipo-view.php on line 15
+[18-Nov-2019 18:42:59 UTC] PHP Fatal error:  Uncaught Error: Class 'clsCliente' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_NuevoEquipo-view.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_NuevoEquipo-view.php on line 18
+[18-Nov-2019 19:11:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_Epresupuesto-view.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_Epresupuesto-view.php on line 19
+[18-Nov-2019 23:10:51 UTC] PHP Fatal error:  Uncaught Error: Class 'clsFunciones' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_ingreso-view.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_ingreso-view.php on line 35
+[19-Nov-2019 00:17:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_EditarEquipo-view.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_EditarEquipo-view.php on line 27
+[19-Nov-2019 01:06:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_infEquipo-view.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_infEquipo-view.php on line 27
+[23-Nov-2019 13:17:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_ConfigImpresion-view.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_ConfigImpresion-view.php on line 14
+[24-Nov-2019 02:39:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/index-view.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/index-view.php on line 3
+[24-Nov-2019 10:10:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_EditarEquipo-view.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_EditarEquipo-view.php on line 27
+[24-Nov-2019 10:41:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_imprimirEquipo-view.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_imprimirEquipo-view.php on line 15
+[25-Nov-2019 02:10:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_infEquipo-view.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_infEquipo-view.php on line 27
+[25-Nov-2019 05:11:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_imprimir-view.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_imprimir-view.php on line 8
+[25-Nov-2019 08:57:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_Epresupuesto-view.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_Epresupuesto-view.php on line 19
+[04-Dec-2019 08:46:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Core' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_EditarCliente-view.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_EditarCliente-view.php on line 11
+[25-Dec-2019 21:22:58 UTC] PHP Fatal error:  Uncaught Error: Class 'clsFunciones' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_ingreso-view.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_ingreso-view.php on line 35
+[25-Dec-2019 22:23:12 UTC] PHP Fatal error:  Uncaught Error: Class 'clsCliente' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_NuevoEquipo-view.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_NuevoEquipo-view.php on line 18
+[28-Dec-2019 13:34:59 UTC] PHP Fatal error:  Uncaught Error: Class 'clsCliente' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_clienteQR-view.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_clienteQR-view.php on line 15
+[28-Jan-2020 06:44:36 UTC] PHP Fatal error:  Uncaught Error: Class 'clsCliente' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_NuevoEquipo-view.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_NuevoEquipo-view.php on line 18
+[03-Feb-2020 19:13:35 UTC] PHP Fatal error:  Uncaught Error: Class 'clsFunciones' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_ingreso-view.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_ingreso-view.php on line 35
+[06-Feb-2020 15:56:51 UTC] PHP Fatal error:  Uncaught Error: Class 'clsCliente' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_clienteQR-view.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_clienteQR-view.php on line 15
+[09-Feb-2020 08:26:22 UTC] PHP Fatal error:  Uncaught Error: Class 'clsFunciones' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_ingreso-view.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_ingreso-view.php on line 35
+[01-Mar-2020 07:30:41 UTC] PHP Fatal error:  Uncaught Error: Class 'clsCliente' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_NuevoEquipo-view.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_NuevoEquipo-view.php on line 18
+[09-Mar-2020 17:24:56 UTC] PHP Fatal error:  Uncaught Error: Class 'clsCliente' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_clienteQR-view.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_clienteQR-view.php on line 15
+[17-Mar-2020 07:45:10 UTC] PHP Fatal error:  Uncaught Error: Class 'clsFunciones' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_ingreso-view.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_ingreso-view.php on line 35
+[12-Apr-2020 09:46:47 UTC] PHP Fatal error:  Uncaught Error: Class 'clsCliente' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_NuevoEquipo-view.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_NuevoEquipo-view.php on line 18
+[19-Apr-2020 05:03:23 UTC] PHP Fatal error:  Uncaught Error: Class 'clsCliente' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_clienteQR-view.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_clienteQR-view.php on line 15
+[20-Apr-2020 21:05:52 UTC] PHP Fatal error:  Uncaught Error: Class 'clsFunciones' not found in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_ingreso-view.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/ddsscreamtech/serviciotecnico.screamtech.com.ar/core/app/view/st_ingreso-view.php on line 35
