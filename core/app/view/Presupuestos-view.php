@@ -229,6 +229,11 @@ $total=0;
                     </div>
                     <br/>
                     <hr/>
+                    <div class="col-md-12 col-xs-12">
+                        <a id="<?php echo $nrEquipo; ?>"  style="cursor:pointer;display:none" class="btn btn-danger btn-sm btn_entregado" >
+                            <span class="glyphicon glyphicon-check" style="padding-left: 5px"> ENTREGAR </span>
+                        </a>  
+                    </div>
 
                 </div>
                 <br/>
@@ -324,6 +329,32 @@ $total=0;
 <script>
 
     $(document).ready(function(){
+
+
+        /** boton entregados */    
+        $("div#TabEqRe").on("click","td a.btn_entregado",function(){
+        var id= $(this).attr("id");
+
+        equipo_entregado(id);
+    });
+
+
+
+    function equipo_entregado(orden){
+        var dat="equipo_entregado="+orden;
+        $("div#inf").empty();
+
+        $.ajax({
+            type: 'POST',
+            url:  './?action=st_Equipos',
+            data: dat,
+            success: function(res) {
+
+                window.location='./';
+            }
+        });
+    }
+
 
 
         var CantFallas=0;//saber si ahi fallas;
