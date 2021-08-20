@@ -43,7 +43,7 @@ if(ValidacionSesion::$isLoggedIn) {
  if(isset($_POST["equipo_entregado"])){
      $nr_orden=$_POST["equipo_entregado"];
      $res=clsEquipo::Equipo_entregado($nr_orden);
-
+        
       $_SESSION["msj"]="<div class='alert alert-success'>El equipo esta entregado.</div>";
  }
 

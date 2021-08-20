@@ -150,13 +150,15 @@ $total=0;
                             $estado_p=clsPresupuesto_estado::getAll();
                             $E_G=clsPresupuesto::pasos_estado($nrEquipo);
                             $cant=false;
-
+                            $btnEntregar=false;   
                             foreach($estado_p as $estado){
                                 if(count($E_G)>0){
                                     foreach ($E_G as $e){
 
                                         if($estado->idEs_pre==$e->idEs_pre){
-
+                                            if($estado->idEs_pre==4 ||$estado->idEs_pre==3 ){
+                                                $btnEntregar=true;
+                                            }
                                             $cant=true;
                                             ?>
                                             <label class="radio-inline verde">
@@ -230,9 +232,17 @@ $total=0;
                     <br/>
                     <hr/>
                     <div class="col-md-12 col-xs-12">
-                        <a id="<?php echo $nrEquipo; ?>"  style="cursor:pointer;display:none" class="btn btn-danger btn-sm btn_entregado" >
-                            <span class="glyphicon glyphicon-check" style="padding-left: 5px"> ENTREGAR </span>
-                        </a>  
+                        <?php 
+                            if($btnEntregar){
+                        ?>
+                                 <button id="<?php echo $nrEquipo; ?>"  style="cursor:pointer;"  class="btn btn-danger btn-sm btn_entregado" >
+                                    <span class="glyphicon glyphicon-check" style="padding-left: 5px"> ENTREGAR </span>
+                                </button> 
+                        <?php
+
+                            }
+                        ?>
+                        
                     </div>
 
                 </div>
@@ -331,10 +341,11 @@ $total=0;
     $(document).ready(function(){
 
 
-        /** boton entregados */    
-        $("div#TabEqRe").on("click","td a.btn_entregado",function(){
+        /** boton entregados */  
+        var btnEntregado=false;  
+        $("div button.btn_entregado").click(function(){
         var id= $(this).attr("id");
-
+              
         equipo_entregado(id);
     });
 
@@ -343,14 +354,15 @@ $total=0;
     function equipo_entregado(orden){
         var dat="equipo_entregado="+orden;
         $("div#inf").empty();
-
+        alert(dat);
+        btnEntregado=true;
         $.ajax({
             type: 'POST',
             url:  './?action=st_Equipos',
             data: dat,
             success: function(res) {
-
-                window.location='./';
+               
+                window.location='./?view=st_Equipos';
             }
         });
     }
@@ -443,8 +455,11 @@ $total=0;
 
 
         $("form#FormNuevos").on("submit",function(e){
-
+            
             $("div#inf").empty();
+            if(btnEntregado){
+                e.preventDefault();
+            }
             if(value_garantia<=0){
                 $("div#inf").append("<div class='alert alert-warning'>Faltan datos </div>");
                 e.preventDefault();
