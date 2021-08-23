@@ -318,7 +318,7 @@ $total=0;
                             ?>
 
 
-
+                             
                         </div>
                     </div>
 
@@ -354,7 +354,7 @@ $total=0;
     function equipo_entregado(orden){
         var dat="equipo_entregado="+orden;
         $("div#inf").empty();
-        alert(dat);
+        //alert(dat);
         btnEntregado=true;
         $.ajax({
             type: 'POST',
