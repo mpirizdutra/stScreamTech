@@ -793,6 +793,8 @@ if(isset($_POST["Cambiar_Orden_garantiza"])){
                                         $cant=mysqli_num_rows($res2[0]);
                                         $Garantiza="";
 
+                                        $fechaEntregado="";
+
                                         while ($row2 = mysqli_fetch_assoc($res2[0])) {
                                             //TR se le da altura para que los menu de editar o presupuesto se puedan ver. Si es uno solo o si son mas de uno solo al ultimo tr se le da altura
 
@@ -858,6 +860,7 @@ if(isset($_POST["Cambiar_Orden_garantiza"])){
                                                 </tr>
 
                                                 <!-- Botones acciones -->
+
                                                 <tr id="<?php echo $cliente->id_cliente."#".$row2["nr_orden"];  ?>">
 
                                                     <td colspan="4" style="border: 0;text-align: right">
@@ -955,7 +958,7 @@ if(isset($_POST["Cambiar_Orden_garantiza"])){
                                             else{
                                                 $Garantiza="";
                                                 if($E_entregados==1){
-
+                                                    $fechaEntregado=$row2["fecha_entrega"];
                                                     $Garantiza=clsGarantiza::nombre_garantiza($row2["nr_orden"]);
                                                     $e_g=clsGarantiza_equipo::get_nr_orden($row2["nr_orden"]);
 
@@ -963,6 +966,7 @@ if(isset($_POST["Cambiar_Orden_garantiza"])){
                                                     $presu=clsPresupuesto::getById($row2["nr_orden"]);
                                                     $class="btn btn-primary btn-sm acciones";
                                                     $msj="Presupuesto";
+
                                                     $cantPres=0;
                                                     if(count($presu)>0){
                                                         $cantPres=count($presu);
@@ -999,6 +1003,16 @@ if(isset($_POST["Cambiar_Orden_garantiza"])){
                                                    </tr>
 
                                                     <!-- Botones acciones -->
+                                                    <tr>
+                                                        <td colspan="4" style="border: 0;color:#00d0ff;">
+                                                            <p>
+                                                                El equipo se entrego el
+                                                                <?php
+                                                                echo    clsFunciones::fecha2($fechaEntregado,0);
+                                                                ?>
+                                                            </p>
+                                                        </td>
+                                                    </tr>
                                                     <tr id="<?php echo $cliente->id_cliente."#".$row2["nr_orden"];  ?>">
 
                                                         <td colspan="4" style="border: 0;text-align: right">
