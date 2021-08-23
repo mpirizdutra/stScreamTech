@@ -102,7 +102,7 @@ public function __construct(){
     public static  function ListarEquipo($idCliente){
 
 
-      return  Executor::doit("SELECT `nr_orden`, E.`id_estado`, `id_cliente`,id_tipo_equipo, `fecha_ingreso`, `tipoEquipo`, `descripcion`,Es.estado,orden_garantia FROM `equipo` E,estado_equipo Es   where id_cliente=$idCliente and E.id_estado=Es.id_estado order by nr_orden desc");
+      return  Executor::doit("SELECT `nr_orden`, E.`id_estado`, `id_cliente`,id_tipo_equipo, `fecha_ingreso`, `tipoEquipo`, `descripcion`,Es.estado,orden_garantia,fecha_entrega FROM `equipo` E,estado_equipo Es   where id_cliente=$idCliente and E.id_estado=Es.id_estado order by nr_orden desc");
 
     }
 
